@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: MyString
+  depth: MyString
+  pH: 1.5
+  organicMatter: 1.5
+  nitrogen: 1.5
+  phosphorus: 1.5
+  potassium: 1.5
+
+two:
+  location: MyString
+  depth: MyString
+  pH: 1.5
+  organicMatter: 1.5
+  nitrogen: 1.5
+  phosphorus: 1.5
+  potassium: 1.5
